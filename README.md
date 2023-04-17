@@ -1,1 +1,1 @@
-# js_loops_session
+# JS interview tasks on the topic "loops" 
