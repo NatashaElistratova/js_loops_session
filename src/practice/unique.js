@@ -14,6 +14,8 @@ const unique = (array) => {
     return result;
 }
 
+console.log(unique(ids))
+
 // function unique(array) {
 //     let result = [];
   
@@ -29,5 +31,4 @@ const unique = (array) => {
 //     return result;
 // }
 
-console.log(unique(ids))
 

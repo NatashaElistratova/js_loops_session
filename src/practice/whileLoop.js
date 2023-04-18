@@ -10,7 +10,7 @@ while (i) {
 // Оба цикла выводят одинаковые значения или нет?
 
 let a = 0;
-while (++a < 5) console.log(a);
+while (a++ < 5) console.log(a);
 
 let b = 0;
-while (b++ < 5) console.log(b);
+while (++b < 5) console.log(b);
